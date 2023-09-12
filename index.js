@@ -58,7 +58,7 @@ app.get('/generate', async function (req, res) {
 });
 
 app.listen(3000, () => {
-  console.log('Listening on port 3000\nCheck code and docs at: https://github.com/dhoangk07/Twitter-Nodejs');
+  console.log('Listening on port 3000\nCheck code and docs at: https://github.com/dhoangk07/TwitterNodejs');
 });
 
 function downloadImageUrl(){
